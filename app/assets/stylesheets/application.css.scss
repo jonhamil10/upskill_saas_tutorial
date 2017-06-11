@@ -47,6 +47,14 @@ h1, h2, h3 {
     color: black;
 }
 
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black;
+}
+
+.navbar-default .navbar-toggle {
+    border: 2px solid black; 
+}
+
 // homepage styles
 .home-callout {
     margin-top: -20px;
